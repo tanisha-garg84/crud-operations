@@ -1,5 +1,12 @@
 # UNIX COMMANDS
+
 SOME IMPORTANT COMMANDS- 
+* To make a group.
+`$groupadd<groupname>`
+
+* To add a user.
+ `$adduser <useername>`
+ 
 * To make a new directory.
  `$mkdir <name of directory`
  
@@ -18,7 +25,7 @@ SOME IMPORTANT COMMANDS-
 * To copy files.
 `$cp <filename a><filenameb>`
 
- # TO CLONE A REPO USING TERMINAL-
+  TO CLONE A REPO USING TERMINAL-
 
 * Open Terminal - `ctrl+alt+t`
 
@@ -28,13 +35,13 @@ SOME IMPORTANT COMMANDS-
 
 * Now , open that folder and open terminal and run - `git clone git@github.com:tanisha-garg84/crud-operations.git`
 
-* Make a new file in new directory - `touch index.html`
+* Make a new file in directory - `touch index.html`
 
 * Add all files to commit - `git add .`
  
 * For Commit changes - `git commit -m "<your message>"`
 
-* Push changes - `git pus`
+* Push changes - `git push`
 
 
  
