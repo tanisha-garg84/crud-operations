@@ -20,15 +20,23 @@ SOME IMPORTANT COMMANDS-
 
  # TO CLONE A REPO USING TERMINAL-
 
-*Open Terminal - `ctrl+alt+t`
+* Open Terminal - `ctrl+alt+t`
 
 * Make New Directory - `mkdir < name of directory>`
 
 * Open that particular Directory - `cd <name of that particular directory> /` 
 
-* Now , open that folder and open terminal and run - `git clone <your ssh key>`
+* Now , open that folder and open terminal and run - `git clone git@github.com:tanisha-garg84/crud-operations.git`
 
-*
+* Make a new file in new directory - `touch index.html`
+
+* Add all files to commit - `git add .`
+ 
+* For Commit changes - `git commit -m "<your message>"`
+
+* Push changes - `git pus`
+
+
  
 
 
