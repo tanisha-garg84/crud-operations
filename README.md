@@ -1,4 +1,4 @@
 # UNIX COMMANDS
 SOME IMPOETANT COMMANDS- 
 * TO MAKE A NEW DIRECTORY
-$ mkdir <name of directory>
+ command $mkdir "name of directory"
